@@ -10,7 +10,7 @@ This work is licensed under the **Creative Commons Attribution-NonCommercial 4.0
 
 ### Under the following terms:
 - **Attribution:** You must give appropriate credit, provide a link to the license, and indicate if changes were made (e.g., files, functions). You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- **NonCommercial:** You may not use the material for commercial purposes or any financial gain.
+- **Non-Commercial:** You may not use the material for commercial purposes or any financial gain.
 
 To view a copy of this license, visit:  
 https://creativecommons.org/licenses/by-nc/4.0/
@@ -32,8 +32,7 @@ https://creativecommons.org/licenses/by-nc/4.0/
      *"Python unleashed on systems biology"*  
      Computing in Science and Engineering 9:34 (2007); arXiv:0704.3259
 
-   - **b)** Ryan N. Gutenkunst, Jordan C. Atlas, Fergal P. Casey, Robert S. Kuczenski, Joshua J. Waterfall, Chris R. Myers, and James P. Sethna.  
-     *SloppyCell.* http://sloppycell.sourceforge.net/ (2007)
+   - **b)** Ryan N. Gutenkunst, Jordan C. Atlas, Fergal P. Casey, Robert S. Kuczenski, Joshua J. Waterfall, Chris R. Myers, and James P. Sethna. *SloppyCell.* http://sloppycell.sourceforge.net/ (2007)
 
    The novel objects in "ReactionNetworks (Overrides SloppyCell Objects)" override the default "SloppyCell" objects in the source repository referenced above.
 
